@@ -1,0 +1,12 @@
+Mininet has been implemented successfully
+No. of hosts:  X
+No. of switches: Y 
+switches and hosts has to be enterd as command line in the file Final.py
+
+All the switches have  been connected to each other 
+Odd hosts can only talk to each other and even hosts can talk to each other, this has been shown in video by using ping command 
+between various hosts. 
+All the communication have been throttled to 1 mbps for odd hosts and 2 mbps for even hosts, can be seen in code by bw=1 or bw=2
+
+
+https://youtu.be/c6Qe0Ysy_LA
